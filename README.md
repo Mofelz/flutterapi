@@ -25,7 +25,7 @@
 
 Добавляем экран регстрации
 
-![image](https://user-images.githubusercontent.com/93879842/222568370-d84b78cc-3c2b-4a83-8ad4-f51a0494d45c.png)
+![image](https://user-images.githubusercontent.com/93879842/222569579-90f7b9ce-2c74-4b4e-b579-2674c40ad91a.png)
 
 экран авторизации
 
